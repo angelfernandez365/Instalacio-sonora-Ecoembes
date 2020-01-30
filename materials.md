@@ -28,24 +28,37 @@
 ### Habitación en forma de cubo y diáfana. En el centro hay dispuestos unas formas verticales a modo de cuadrado.
 
 ### MATERIALES
-### Reciclables         ### No reciclables
-* Papel aluminio        * Canica
-* Papel de periódico    * Motor
-* Sartén de metal       * Escayola
+### Reciclables         
+* Papel aluminio        
+* Papel de periódico    
+* Sartén de metal      
 * Vaso de metal
 * Piedra
+### No reciclables
+* Canica
+* Motor
+* Escayola
 
-### Metálicos           ### No metálicos
-* Papel aluminio        * Papel de periódico
-* Canica                * Piedra
-* Vaso de metal         * Escayola
-* Sartén de metal       * Motor
+### Metálicos           
+* Papel aluminio        
+* Canica                
+* Vaso de metal         
+* Sartén de metal       
+### No metálicos
+* Piedra
+* Papel de periódico
+* Escayola
+* Motor
 
-### Ruido estridente    ### Ruido suave
-* Sartén de metal       * Papel aluminio
-* Vaso de metal         * Papel de periódico
-* Canica                * Motor
-                        * Piedra
+### Ruido estridente    
+* Sartén de metal       
+* Vaso de metal         
+* Canica   
+### Ruido suave
+* Motor
+* Papel aluminio
+* Papel de periódico
+* Piedra
 
 ### CONCEPTOS
 * La naturaleza:
